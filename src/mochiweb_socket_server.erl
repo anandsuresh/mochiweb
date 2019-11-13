@@ -18,7 +18,7 @@
         {port,
          loop,
          name=undefined,
-         max=2048,
+         max=4096,
          ip=any,
          listen=null,
          nodelay=false,
